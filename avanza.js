@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Avanza
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.1.1
 // @description  Add a share column to get an overview of your account
 // @author       Stefan Nilsson
-// @match        https://www.avanza.se/min-ekonomi/innehav/konton.*
+// @match        avanza.se/min-ekonomi/innehav/konton.*
 // @grant        none
 // ==/UserScript==
 
