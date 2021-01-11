@@ -4,7 +4,7 @@
 // @version      0.1.1
 // @description  Add a share column to get an overview of your account
 // @author       Stefan Nilsson
-// @match        avanza.se/min-ekonomi/innehav/konton.*
+// @match        https://www.avanza.se/min-ekonomi/innehav/konton.*
 // @grant        none
 // ==/UserScript==
 
